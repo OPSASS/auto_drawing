@@ -1,5 +1,5 @@
 # UI Settings
-WINDOW_TITLE = "Auto Drawing V2.0"
+WINDOW_TITLE = "Auto Drawing V1.0"
 WINDOW_SIZE = "1200x700"
 WINDOW_BG = '#f0f0f0'
 

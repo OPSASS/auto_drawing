@@ -1,4 +1,4 @@
-# Auto Drawing App V2.0
+# Auto Drawing V1.0
 
 Công cụ tự động vẽ tranh từ ảnh với Python.
 
@@ -46,8 +46,8 @@ auto_drawing/
 ### 1. Tạo cấu trúc thư mục
 
 ```bash
-mkdir auto_drawing_app
-cd auto_drawing_app
+mkdir auto_drawing
+cd auto_drawing
 
 mkdir config core ui utils
 mkdir ui/components ui/tabs
